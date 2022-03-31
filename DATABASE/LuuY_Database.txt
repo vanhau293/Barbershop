@@ -1,0 +1,5 @@
+﻿Kết nối database:
+
+        user="sa";
+        pass="123";
+        uRL="jdbc:sqlserver://;databaseName=QLKH_CT";
